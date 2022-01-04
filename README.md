@@ -1,1 +1,3 @@
-# buildingAI
+University of Helsinki 
+
+Course Building AI
